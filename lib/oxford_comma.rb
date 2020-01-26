@@ -4,6 +4,6 @@ if array.size == 1
 elsif array.size == 2 
    array.join(" and ")
 else array.size >= 3
-  array.last.join(", ")
+  array.join(", ")
 end
 end
