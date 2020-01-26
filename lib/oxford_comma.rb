@@ -7,7 +7,7 @@ elsif array.size == 3
   array[2] = "and starfruit"
   array.join(", ")
 elsif array.size > 3
-  array.
+  array.last = "and #{arr}"
    
 end
 end
